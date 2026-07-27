@@ -1,3 +1,8 @@
 print("Hello")
 print("World")
-print("Github")
+
+print("Adding new line...")
+a=10
+b=20
+c=a-b
+print(c)
